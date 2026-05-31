@@ -1,0 +1,9 @@
+AutoSwitch.log
+
+.codex/
+.agents/
+.codegraph/
+.gitrepo/
+
+*.bak
+*.tmp
